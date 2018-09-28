@@ -1,0 +1,39 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+table {
+    margin: 0 auto;
+    padding: 60px 20px;
+    background-color: cadetblue;
+}
+
+input {
+    height: 100px;
+    width: 160px;
+    font-size: 56px;
+    text-align: center;
+}
+
+img#lingo {
+    display: block;
+    margin: auto;
+    background-color: cadetblue;
+    padding: 0 116px;
+}
+
+button {
+    position: absolute;
+    top: 34%;
+    left: 48%;
+}
+
+.goed {
+    background-color: green;
+}
+
+.verkeerde{
+    background-color: yellow;
+    border-radius: 150px;
+}
